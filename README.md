@@ -9,3 +9,4 @@ Instalação do Paprium no Batocera.Linux
 curl -sL bit.ly/Paprium | bash
 ```
 
+[Assista ao vídeo Paprium](https://github.com/JeversonDiasSilva/paprium/raw/main/resources/videos/Paprium-video.mp4)
