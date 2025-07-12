@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Old-Towers.bin</path>
+		<name>Old Towers</name>
+		<desc>You play as a little explorers in a towers full of deadly traps and ugly skullz. Your only weapons to help you win: quick-thinking and skill.</desc>
+		<image>./images/Old-Towers-image.png</image>
+		<video>./videos/Old-Towers-video.mp4</video>
+		<marquee>./images/Old-Towers-marquee.png</marquee>
+		<thumbnail>./images/Old-Towers-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20190318T000000</releasedate>
+		<developer>Denis Grachev</developer>
+		<publisher>RetroSouls</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20200403T105321</lastplayed>
+		<crc32>D875E97D</crc32>
+		<md5>96216acdb9b8eb86f8fa7209a5cc5619</md5>
+		<lang>en</lang>
+		<cheevosHash>96216ACDB9B8EB86F8FA7209A5CC5619</cheevosHash>
+	</game>
+	<game id="493037">
+		<path>./Paprium.bin</path>
+		<name>Paprium</name>
+		<desc>Year 8A2, somewhere at equidistant point between Shanghai, Tokyo and Pyongyang, a Megapolis rose from ashes of the shortest but most devastating nuclear war in history, its name is PAPRIUM. BRUTAL, MASSIVE. You will fight your way through the city with Tug, Alex and Dice. Redefine the word justice, deal with the BLU drug temptation, and more importantly: STAY ALIVE!</desc>
+		<image>./images/Paprium-image.png</image>
+		<video>./videos/Paprium-video.mp4</video>
+		<marquee>./images/Paprium-marquee.png</marquee>
+		<thumbnail>./images/Paprium-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20201216T000000</releasedate>
+		<developer>Watermelon</developer>
+		<publisher>Watermelon</publisher>
+		<genre>Luta</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20250712T184813</lastplayed>
+		<md5>91ccdc0b20af85a16bfe0b1a698c19d0</md5>
+		<gametime>165</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20250712T191503" />
+	</game>
+</gameList>
